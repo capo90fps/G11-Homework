@@ -1,0 +1,21 @@
+.sadri1{
+    border-bottom: 1px solid gray;
+}
+.sb ,p{
+display: inline-block;
+
+}
+.sb ,img {
+    display: inline block;
+}
+.sb1 , p {
+    display: inline-block;
+}
+.sb1 img {
+    display: inline-block;
+    width: 550px;
+}
+
+.sb2 li{
+    font-family: 'Montserrat', sans-serif;
+}
